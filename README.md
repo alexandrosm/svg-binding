@@ -13,7 +13,7 @@ html files in web/ you can see them in action.
 
 ##web/clock.html
 
-A port of the Ractive.js clock example: http://www.ractivejs.org/examples/clock/
+A port of the Ractive.js clock example: http://www.ractivejs.org/examples/clock
 
 ##web/chart.html
 
